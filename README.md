@@ -1,5 +1,5 @@
 <h1 align="center">Hola Mi nombre es Elvis Uriel Marciales</h1>
-<h3 align="center">Soy Front-End gusta la Programación</h3>
+<h3 align="center">Soy Front-End Me gusta la Programación</h3>
 
 - 🔭 I’m currently working on [Talentlogy-kumosoft](https://kumosoft.co/)
 
