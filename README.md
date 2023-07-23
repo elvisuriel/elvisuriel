@@ -33,7 +33,7 @@
 
 - 👯 I’m looking to collaborate on [kumonera](https://kumosoft.co/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/elvisuriel/](https://github.com/elvisuriel/)
+- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/elvisuriel/overview](https://app.netlify.com/teams/elvisuriel/overview)
 
 - 💬 Ask me about **html, css, javascript, react, react-native node, docker**
 
