@@ -497,6 +497,11 @@ footer {
         margin-top: 30px;
     }
 
+    .servicios .fila .col .card {
+        padding: 10px;
+
+    }
+
     .servicios {
         position: static;
         padding: 20px;
@@ -523,6 +528,5 @@ footer {
     .trabajos nav a {
         margin: 0 5px;
     }
-
 
 }
