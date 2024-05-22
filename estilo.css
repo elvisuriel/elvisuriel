@@ -239,7 +239,15 @@ body {
 
 .habilidades .fila {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
+}
+
+.habilidades .col {
+    flex: 1;
+    min-width: 200px;
+    /* Ajusta el mínimo según tu necesidad */
+    box-sizing: border-box;
 }
 
 .score {
@@ -265,6 +273,7 @@ body {
     font-size: 40px;
     text-align: center;
 }
+
 
 /* Esta clase se genera dinámicamente por la librera para graficos */
 .score .box canvas {
@@ -519,6 +528,16 @@ footer {
 
     .servicios .fila .col .card {
         margin-bottom: 20px;
+    }
+
+    .score .box .chart {
+        position: relative;
+        width: 160px;
+        height: 160px;
+        margin: auto;
+        line-height: 160px;
+        font-size: 40px;
+        text-align: center;
     }
 
     .habilidades {
