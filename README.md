@@ -29,7 +29,7 @@
 
 - 🔭 I’m currently working on [Corsox](https://corsox.com/)
 
-- 🌱 I’m currently learning **Next.js, Angular**
+- 🌱 I’m currently learning **Angular  y Vue.js**
 
 - 👯 I’m looking to collaborate on [Corsox](https://corsox.com/)
 
