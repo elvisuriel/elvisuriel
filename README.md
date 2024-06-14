@@ -33,7 +33,7 @@
 
 - 👯 I’m looking to collaborate on [kumonera](https://corsox.com/)
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/elvisuriel/overview](https://app.netlify.com/teams/elvisuriel/overview)
+- 👨‍💻 All of my projects are available at [Portafolio](https://mi-portafolio-elvis.netlify.app/)
 
 - 💬 Ask me about **html, css, javascript, react, react-native node, docker**
 
