@@ -27,11 +27,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-- 🔭 I’m currently working on [Talentlogy-kumosoft](https://kumosoft.co/)
+- 🔭 I’m currently working on [Corsox](https://kumosoft.co/)
 
 - 🌱 I’m currently learning **Next.js, Angular**
 
-- 👯 I’m looking to collaborate on [kumonera](https://kumosoft.co/)
+- 👯 I’m looking to collaborate on [kumonera](https://corsox.com/)
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/elvisuriel/overview](https://app.netlify.com/teams/elvisuriel/overview)
 
