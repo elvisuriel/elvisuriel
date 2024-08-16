@@ -27,15 +27,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-- 🔭 I’m currently working on [Corsox](https://corsox.com/)
+- 🔭 I’m currently working on [Branak](https://www.branak.com/)
 
 - 🌱 I’m currently learning **Angular  y Vue.js**
 
-- 👯 I’m looking to collaborate on [Corsox](https://corsox.com/)
+- 👯 I’m looking to collaborate on [Branak](https://www.branak.com/)
 
 - 👨‍💻 All of my projects are available at [Portafolio](https://mi-portafolio-elvis.netlify.app/)
 
-- 💬 Ask me about **html, css, javascript, react, react-native node, docker**
+- 💬 Ask me about **Html, CSS, JavasCript, React, react-native, Docker, Aws, Next, Node GraphQl**
 
 - 📫 How to reach me **urielmarciales@gmail.com**
 
