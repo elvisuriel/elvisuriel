@@ -36,7 +36,7 @@
 
 - 👨‍💻 All of my projects are available at [Portafolio](https://mi-portafolio-elvis.netlify.app/)
 
-- 💬 Ask me about **Html, CSS, JavasCript, React, react-native, Docker, Aws, Next, Node GraphQl**
+- 💬 Ask me about **Html, CSS, Tailwind, JavasCript, React, react-native, Docker, Aws, Next, Node, GraphQl**
 
 - 📫 How to reach me **urielmarciales@gmail.com**
 
