@@ -29,10 +29,12 @@
 
 - 🔭 I’m currently working on [Branak](https://www.branak.com/)
 - 🔭 I’m currently working on [Lanet](https://lanet.app.la-net.co/)
+- 👯 🔭 I’m currently working on [Intuition](https://intuitionstudio.co/)
 
 - 🌱 I’m currently learning **Angular  y Vue.js**
 
 - 👯 I’m looking to collaborate on [Branak](https://www.branak.com/)
+  
 
 - 👨‍💻 All of my projects are available at [Portafolio](https://mi-portafolio-elvis.netlify.app/)
 
